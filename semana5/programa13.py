@@ -22,6 +22,6 @@ class Persona: #Crea la Clase Persona
 
 dejah = Persona() #Crea una Clase
 dejah.setNombre("Dejah") #Guarda el nombre
-print(dejah.getNombre()) #Imprime Deja 
+print(dejah.getNombre()) #Imprime Dejah
 dejah.setEmail("Dejah@utectulancingo.edu.mx") #Guarda el correo
 print(dejah.getEmail()) #Imprime el email 

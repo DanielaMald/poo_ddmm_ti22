@@ -65,7 +65,8 @@ if n1 >= n2: #Condicion si entonces mayor o igual que.
     else:
         print(None)
 
-    else:                                        print(n2)
+    else:                     
+        print(n2)
 
  #formula 7
 if n1 <= n2:
