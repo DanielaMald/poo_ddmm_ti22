@@ -5,9 +5,9 @@
     Descripcion: taping
 """
 
-def mayor(numero1 , numero2):
+def mayor(numero1 , numero2): #ingresar dos numeros
     if numero1 > numero2:
-        print (numero1)
+        print (numero1) #imprime el numero mayor
 
     elif numero2 > numero1:
         print(numero2)

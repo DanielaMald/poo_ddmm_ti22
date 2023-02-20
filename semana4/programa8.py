@@ -14,8 +14,8 @@ if n1 > n2 :
 if n2 > n1:
     print (n2)
 
-if  n1 = = n2
-     print (None)
+if n1 == n2
+    print (None)
 
  #formula 2
 if n2 > n1: 
@@ -65,7 +65,7 @@ if n1 >= n2:
     else:
         print(None)
 
-    else:                                                            print(n2)
+    else:                                        print(n2)
 
  #formula 7
 if n1 <= n2:
